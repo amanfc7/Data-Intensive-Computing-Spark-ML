@@ -1,0 +1,1 @@
+The .py files contain the scripts for the 3 tasks separately and the Notebook_Ex_2.ipynb file contains the Jupyter notebook for all the 3 tasks combined.
